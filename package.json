@@ -10,8 +10,6 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "concurrently": "^9.1.2"
-  }
+  "license": "ISC"
+
 }
